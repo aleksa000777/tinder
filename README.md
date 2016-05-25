@@ -1,1 +1,9 @@
-# tinder
+# Tinder
+
+
+
+
+```
+	> npm install
+	> npm start
+```
